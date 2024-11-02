@@ -82,6 +82,15 @@ publication_category:
   conferences:
     title: 'Conference Papers'
 
+# Project Category - The following the list of project categories and their headings
+project_category:
+  research:
+    title: 'Research projects'
+  class:
+    title: 'Class projects'    
+  personal:
+    title: 'Personal projects'
+
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
@@ -211,49 +220,25 @@ kramdown:
 
 # These settings control the types of collections used by the template
 collections:
-  teaching:
-    output: true
-    permalink: /:collection/:path/
   publications:
     output: true
     permalink: /:collection/:path/
-  portfolio:
+  projects:
     output: true
-    permalink: /:collection/:path/
-  talks:
-    output: true
-    permalink: /:collection/:path/
+    permalink: /:collection/:path/  
+  # portfolio:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # talks:
+  #   output: true
+  #   permalink: /:collection/:path/
+  # teaching:
+  #   output: true
+  #   permalink: /:collection/:path/
 
 
 # These settings control how pages and collections are included in the site
 defaults:
-  # _posts
-  - scope:
-      path: ""
-      type: posts
-    values:
-      layout: single
-      author_profile: true
-      read_time: true
-      comments: true
-      share: true
-      related: true
-  # _pages
-  - scope:
-      path: ""
-      type: pages
-    values:
-      layout: single
-      author_profile: true
-  # _teaching
-  - scope:
-      path: ""
-      type: teaching
-    values:
-      layout: single
-      author_profile: true
-      share: true
-      comments: true
   # _publications
   - scope:
       path: ""
@@ -263,23 +248,59 @@ defaults:
       author_profile: true
       share: true
       comments: true
-  # _portfolio
+  # _projects
   - scope:
       path: ""
-      type: portfolio
+      type: projects
     values:
       layout: single
       author_profile: true
       share: true
-      comment: true
-  # _talks
-  - scope:
-      path: ""
-      type: talks
-    values:
-      layout: talk
-      author_profile: true
-      share: true
+      comments: true
+  # # _posts
+  # - scope:
+  #     path: ""
+  #     type: posts
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     read_time: true
+  #     comments: true
+  #     share: true
+  #     related: true
+  # # _pages
+  # - scope:
+  #     path: ""
+  #     type: pages
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  # # _teaching
+  # - scope:
+  #     path: ""
+  #     type: teaching
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comments: true
+  # # _portfolio
+  # - scope:
+  #     path: ""
+  #     type: portfolio
+  #   values:
+  #     layout: single
+  #     author_profile: true
+  #     share: true
+  #     comment: true
+  # # _talks
+  # - scope:
+  #     path: ""
+  #     type: talks
+  #   values:
+  #     layout: talk
+  #     author_profile: true
+  #     share: true
 
 
 # Sass/SCSS
