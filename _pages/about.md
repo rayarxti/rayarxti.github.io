@@ -2,12 +2,11 @@
 permalink: /
 title: "Raymond Xiong"
 author_profile: true
+sidebar: true
 redirect_from: 
   - /about/
   - /about.html
 ---
-
-{% include base_path %}
 
 I am an undergraduate student majoring in Computer Science with a concentration in Artificial Intelligence & Machine Learning and Statistical Science with a concentration in Data Science at Duke University and minoring in Linguistics.
 
