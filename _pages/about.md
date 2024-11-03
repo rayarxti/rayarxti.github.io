@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 I am an undergraduate student majoring in Computer Science with a concentration in Artificial Intelligence & Machine Learning and Statistical Science with a concentration in Data Science at Duke University and minoring in Linguistics.
 
 My interests lie within the application of AI and machine learning to aid scientific discovery and decision making.
