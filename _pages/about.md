@@ -2,7 +2,6 @@
 permalink: /
 title: "Raymond Xiong"
 author_profile: true
-sidebar: true
 redirect_from: 
   - /about/
   - /about.html
