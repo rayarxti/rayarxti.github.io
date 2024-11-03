@@ -11,4 +11,4 @@ I am an undergraduate student majoring in Computer Science with a concentration 
 
 My interests lie within the application of AI and machine learning to aid scientific discovery and decision making.
 
-A copy of my up-to-date resume can be found [here](myLib/Raymond_Xiong_Resume_2410.pdf).
+A copy of my up-to-date resume can be found [here](../files/Raymond_Xiong_Resume_2410.pdf).
