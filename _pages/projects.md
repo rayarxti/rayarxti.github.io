@@ -13,7 +13,3 @@ author_profile: true
 **Class Projects**
 
 **Personal Projects**
-
-{% for post in site.publications reversed %}
-  {% include archive-single.html %}
-{% endfor %}
