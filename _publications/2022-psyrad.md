@@ -2,12 +2,10 @@
 title: "The pattern of cortical thickness underlying disruptive behaviors in Alzheimer's disease"
 collection: publications
 category: manuscripts
-# permalink: /publication/2022-psychoradiology
-excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2022-11-21
 venue: 'Psychoradiology'
 paperurl: 'https://academic.oup.com/psyrad/article/2/3/113/6835627'
-citation: 'Xiong, R. M., Xie, T., Zhang, H., Li, T., Gong, G., Yu, X., & He, Y. (2022). The pattern of cortical thickness underlying disruptive behaviors in alzheimer’s disease. Psychoradiology, 2(3), 113–120. https://doi.org/10.1093/psyrad/kkac017.'
+citation: 'Xiong, R. M., Xie, T., Zhang, H., Li, T., Gong, G., Yu, X., & He, Y. (2022). The pattern of cortical thickness underlying disruptive behaviors in Alzheimer’s disease. Psychoradiology, 2(3), 113–120. https://doi.org/10.1093/psyrad/kkac017.'
 ---
 
 **Background**
