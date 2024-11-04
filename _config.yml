@@ -21,7 +21,7 @@ repository               : "rayarxti/rayarxti.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "blurb_24.jpg"
   name             : "Raymond Xiong"
   pronouns         : # "he/him" 
   bio              : "Student, Software Engineer, Researcher"
