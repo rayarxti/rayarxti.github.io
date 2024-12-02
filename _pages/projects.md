@@ -12,14 +12,14 @@ author_profile: true
 
 # Software Development Projects
 
-**[TBD]**, Duke Department of Computer Science, Ongoing since March 2024
+**Automatic Medical Database (AutoDB)**, Duke Department of Computer Science, Ongoing since March 2024
 
 *Skills: Python (Sqlite, Langchain & OpenAI API), Google BigQuery, Javascript (React, Observable Plot)*
 
 - Created an end-to-end AI application to facilitate electronic health record data analytics of healthcare researchers.
 
 
-**[TBD]**, Cogan Lab, Ongoing since September 2023
+**PyPI IEEG package**, Cogan Lab, Ongoing since September 2023
 
 *Skills: Python, C, Cython; YAML*
 
