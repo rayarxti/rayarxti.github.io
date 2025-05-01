@@ -10,13 +10,14 @@ author_profile: true
 
 **--------------------🚧 UNDER CONSTURCTION 🚧--------------------**
 
-# Software Development Projects
+# Software Development
 
 **Automatic Medical Database (AutoDB)**, Duke Department of Computer Science, Ongoing since March 2024
 
 *Skills: Python (Sqlite, Langchain & OpenAI API), Google BigQuery, Javascript (React, Observable Plot)*
 
 - Created an end-to-end AI application to facilitate electronic health record data analytics of healthcare researchers.
+- [TBC]
 
 
 **PyPI IEEG package**, Cogan Lab, Ongoing since September 2023
@@ -27,34 +28,39 @@ author_profile: true
 - Packaged and published the pipelines on PyPI as the [IEEG](https://pypi.org/project/ieeg/) package.
 
 
-**RAvolution**, COMPSCI 316: Intro to Database Systems @ Duke, Ongoing since Spetember 2024
+**RAvolution**, COMPSCI 316: Intro to Database Systems @ Duke, September 2024 – December 2024
 
-*Skills: PostgreSQL, Javascript (Next, React)*
+*Skills: PostgreSQL (Prisma ORM), Javascript (React, Next.js), HTML/CSS*
 
-[TBC]
+- Built a database-backed web application designed for Duke’s Housing & Resdiential Life office, offering modules for account management, activity organization, safety reporting, scheduling, and more.
+- Implemented the user account module, with functionalities of registering accounts with role differentiation (resident, RA, RC), as well as searching user profiles with keyword filters.
+- [TBC]
 
+<!-- **Duke CSA Academic Database WebApp**, Duke CSA, Ongoing since October 2024
 
-**Duke CSA Academic Database WebApp**, Personal, Ongoing since October 2024
+*Skills: Python, JavaScript*
 
-*Skills: Python*
-
-[TBC]
+[TBC] -->
 
 
 **SmartMahjong Analyzer**, Personal, Ongoing since March 2023
 
 *Skills: Python (PyTorch)*
 
-[TBC]
+- Created an application to analyze player's performance in a game of Riichi Mahjong
+- Implementing various reinforcement learning algorithms to train a good-performing analyzer with minimal input of human knowledge
+- Working to include multiple rule options
+- [TBC]
 
 
 # Research / Machine Learning / Data Analysis
 
-**[TBD]**, COMPSCI 671: Theory & Alg ML @ Duke, Fall 2024
+**Diabetes Features**, COMPSCI 671: Theory & Alg ML @ Duke, Fall 2024
 
 *Skills: Python (Scikit-learn)*
 
-[TBC]
+- Analyzed the important factors in predicting diabetes from a public dataset on Kaggle.
+- [TBC]
 
 
 **[TBD]**, Dementia Care and Research Center @ Peking University Institute of Mental Health, June 2023 – June 2024
@@ -65,12 +71,12 @@ author_profile: true
 - Final paper accepted by [*International Psychogeriatrics*](/publications/).
 
 
-**[TBD]**, Duke Sports Analytics Club, October 2022 – May 2023
+**MLB Pitcher-Batter Analysis**, Duke Sports Analytics Club, October 2022 – May 2023
 
 *Skills: R*
 
 - Collaborated with three other analysts to investigate pitcher-hitter handedness matchups’ influence on hitter success rates at different time periods in Major League Baseball; Utilized R to model pitch outcomes with multinomial logistic models.
-- Published report on [the club website](http://www.dukesportsanalytics.com/kershaw).
+- Published report on [the club website](http://www.dukesportsanalytics.com/kershaw). A PDF version is also available [here](/_projects/2210-sports-analytics-report.pdf).
 
 
 **[TBD]**, National Key Laboratory of Cognitive Neuroscience and Learning @ Beijing Normal University,  November 2019 – September 2022
