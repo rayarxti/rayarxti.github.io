@@ -8,8 +8,8 @@ redirect_from:
   - /about.html
 ---
 
-I am an undergraduate student majoring in Computer Science with a concentration in Artificial Intelligence & Machine Learning and Statistical Science with a concentration in Data Science at Duke University and minoring in Linguistics.
+I am a fourth-year undergraduate student at Duke University in. I double major in Computer Science with a concentration in Artificial Intelligence & Machine Learning and Statistical Science with a concentration in Data Science. I am also pursuing a minor in Linguistics.
 
-My interests lie within the application of AI and machine learning to aid scientific discovery and decision making.
+My interests lie within the application of AI and machine learning to aid scientific discovery and decision making, especially in the intersection with medicine. In my free time, I enjoy cooking cuisines with diverse cultural origins, and playing tennis.
 
-A copy of my up-to-date resume can be found [here](../files/Raymond_Xiong_Resume_2410.pdf).
+The latest version of my resume can be found [here](../files/Raymond_Xiong_Resume_2410.pdf).

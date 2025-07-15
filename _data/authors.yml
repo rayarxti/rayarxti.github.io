@@ -2,9 +2,9 @@
 
 Name Name:
   name        : "Raymond Xiong"
-  uri         : "http://name.com"
+  # uri         : "http://name.com"
   email       : "raymond.xiong7@gmail.com"
-  bio         : "This is the first name."
+  bio         : "ML researcher, engineer"
   avatar      : "blurb_24.jpg"
-  twitter     : "name"
-  google_plus : "Name"
+  # twitter     : "name"
+  # google_plus : "Name"
