@@ -14,7 +14,7 @@ author_profile: true
 
 **ML/AI Conferences**
 
-Wong, L., Ali, A., **Xiong, R.**, Shen, S. Z., Kim, Y., & Agrawal, M. (2025). Retrieval-augmented systems can be dangerous medical communicators. In *the Procedings of the 42nd International Conference of Machine Learning*. [https://doi.org/10.48550/arXiv.2502.14898](https://doi.org/10.48550/arXiv.2502.14898).
+Wong, L., Ali, A., **Xiong, R.**, Shen, S. Z., Kim, Y., & Agrawal, M. (2025). Retrieval-augmented systems can be dangerous medical communicators. *Proceedings of the 42nd International Conference on Machine Learning*, Vancouver, Canada. PMLR 267, 2025. [https://doi.org/10.48550/arXiv.2502.14898](https://doi.org/10.48550/arXiv.2502.14898).
 
 **Journals**
 
