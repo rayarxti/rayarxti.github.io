@@ -10,6 +10,6 @@ redirect_from:
 
 I am a fourth-year undergraduate student at Duke University in. I double major in Computer Science with a concentration in Artificial Intelligence & Machine Learning and Statistical Science with a concentration in Data Science. I am also pursuing a minor in Linguistics. I work with Prof. [Monica Agrawal](https://www.monicaagrawal.com/) on application of LLM in healthcare, and with Prof. [Danyang Zhuo](https://danyangzhuo.com/) and [Anru Zhang](https://anruzhang.github.io/) on LLMs for healthcare data analysis.
 
-My interest lies in the application of machine learning in various fields, especially healthcare. In my free time, I enjoy cooking and playing tennis.
+My interest lies in machine learning for healthcare， linguistics and cognitive science. In my free time, I enjoy cooking and playing tennis.
 
 A copy of my CV (updated Jul 2025) may be found [here](../files/Raymond_Xiong_CV_2507.pdf).
