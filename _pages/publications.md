@@ -12,7 +12,7 @@ author_profile: true
 
 {% include base_path %}
 
-Wong, L., Ali, A., **Xiong, R.**, Shen, S. Z., Kim, Y., & Agrawal, M. (2025). Retrieval-augmented systems can be dangerous medical communicators. *Proceedings of the 42nd International Conference on Machine Learning*. [https://arxiv.org/abs/2502.14898](https://arxiv.org/abs/2502.14898)
+Wong, L., Ali, A., **Xiong, R.**, Shen, S. Z., Kim, Y., & Agrawal, M. (2025). Retrieval-augmented systems can be dangerous medical communicators. *Proceedings of the 42nd International Conference on Machine Learning*, Vancouver, Canada. PMLR 267, 2025. [https://arxiv.org/abs/2502.14898](https://arxiv.org/abs/2502.14898)
 
 Xu, Q., **Xiong, R. M.**, Zhao, M., & Wang, H. (2025). The structure, function, and quality of the social convoy for improvements in depressive symptoms in urban and rural China: A 3-year longitudinal cohort study. *International Psychogeriatrics*, 37(1), 100004. [https://doi.org/10.1016/j.inpsyc.2024.100004](https://doi.org/10.1016/j.inpsyc.2024.100004)
 
