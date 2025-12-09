@@ -12,7 +12,7 @@ author_profile: true
 
 {% include base_path %}
 
-^\*^ Co-first authorship. ^\#^ Co-mentoring. ^†^ Alphabetical authorship.
+<sup>*</sup> Co-first authorship. <sup>#</sup> Co-mentoring. <sup>†</sup> Alphabetical authorship.
 
 # Preprint
 
