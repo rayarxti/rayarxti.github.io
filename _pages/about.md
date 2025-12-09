@@ -12,4 +12,4 @@ I am a fourth-year undergraduate student at Duke University in. I double major i
 
 My interest lies in machine learning for healthcare， linguistics and cognitive science. In my free time, I enjoy cooking and playing tennis.
 
-A copy of my CV (updated Sept 2025) may be found [here](../files/Raymond_Xiong_CV.pdf).
+A copy of my CV (updated Dec 2025) may be found [here](../files/Raymond_Xiong_CV_2512.pdf).
