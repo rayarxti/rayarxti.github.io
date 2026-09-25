@@ -16,13 +16,15 @@ author_profile: true
 
 # Preprint
 
-**Xiong, R.**, Jia, F., Wong, L., Agrawal, M. [What Patients Really Ask: What Patients Really Ask: Exploring the Effect of False Assumptions in Patient Information Seeking.](../files/xiong_jia_wong_agrawal_paa.pdf) Presentation at 2025 Machine Learning for Health Symposium (ML4H 2025).
+Lu, J., Yu, H., **Xiong, R. M.**, Zhang, A., Zhuo, D. (2026). [Iteration Without Elaboration: A Simple ReAct Architecture Suffices for Text-to-SQL Generation.](https://doi.org/10.48550/arXiv.2608.22651)
 
-**Xiong, R.**, Chen, Y. [A Mixed-Effects Analysis of Addressee Honorifics in Japanese Voice Actor Events.](../files/xiong_chen_jpn_ah_cv.pdf) To appear in the Proceedings of the 2026 Annual Meeting of the Linguistic Society of America (LSA 2026). Selected for oral presentation at LSA 2026.
-
-**Xiong, R. M.**, Chen, P., Dong, T., Lu, J., Goldstein, B., Zhuo, D., & Zhang, A. R. [Reliable Curation of EHR Dataset via Large Language Models under Environmental Constraints.](https://arxiv.org/abs/2511.00772)
+**Xiong, R.**, Jia, F., Wong, L., Agrawal, M. [What Patients Really Ask: What Patients Really Ask: Exploring the Effect of False Assumptions in Patient Information Seeking.](https://arxiv.org/abs/2601.15674)
 
 # Published
+
+**Xiong, R. M.**, Chen, P., Dong, T., Lu, J., Goldstein, B., Zhuo, D., & Zhang, A. R. [Reliable Curation of EHR Dataset via Large Language Models under Environmental Constraints.](https://arxiv.org/abs/2511.00772) *Proceedings of the 14th IEEE International Conference on Healthcare Informatics.* 
+
+**Xiong, R.**, Chen, Y. (2026). [A Mixed-Effects Analysis of Addressee Honorifics in Japanese Voice Actor Events.](https://journals.linguisticsociety.org/proceedings/index.php/PLSA/article/view/6052) *Proceedings of the Linguistic Society of America* 11 (1): 6052.
 
 Wong, L., Ali, A., **Xiong, R. M.**, Shen, S. Z., Kim, Y., & Agrawal, M. (2025). [Position: Retrieval-augmented systems can be dangerous medical communicators.](https://proceedings.mlr.press/v267/wong25b.html) *Proceedings of the 42nd International Conference on Machine Learning*, *Proceedings of Machine Learning Research (PMLR)* 267, 82347-82359.
 
