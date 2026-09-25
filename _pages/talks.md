@@ -13,6 +13,9 @@ author_profile: true
 
 
 Toward Trustworthy Language Technologies for Health Applications. *Invited research talk*, BioNLP Lab, University of Massachusetts Amherst. 2026.
+
 A Mixed-Effects Analysis of Addressee Honorifics in Japanese Voice Actor Events. *Oral presentaiton*, Linguistic Society of America Annual Meeting. 2026.
+
 What Patients Really Ask: Exploring the Effect of False Assumptions in Patient Information Seeking. *Poster presentaiton*, Machine Learning for Health Symposium. 2025.
+
 A Mixed-Effects Analysis of Addressee Honorifics in Japanese Voice Actor Events. *Oral presentaiton*, Duke University × Ochanomizu University Student Workshop, Duke University \& Ochanomizu University. 2025.
